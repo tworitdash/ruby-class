@@ -5,6 +5,8 @@
 #The last 2 lines are the example of another conditional statement.
 #uncomment those lines and see the results. :)
 
+puts "enter the age"
+
 age = gets.to_i
 
 #2. process
